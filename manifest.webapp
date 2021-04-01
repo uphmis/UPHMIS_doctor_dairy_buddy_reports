@@ -1,0 +1,22 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "appType": "APP",
+  "name": "Doc Diary Buddy Buddy Reports",
+  "version": "1.0.0",
+  "description": "",
+  "developer": {
+    "name": "samta",
+    "email": "samta.bajpayee@gmail.com"
+  },
+  "icons": {
+  "16":"images/ddreport.png",
+  "48":"images/ddreport.png",
+  "128":"images/ddreport.png"
+  }
+}
